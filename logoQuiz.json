@@ -1,0 +1,1538 @@
+[
+              {
+            "index": "1",
+            "type": "image",
+            "deskripsi": "A brand of mineral water",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q1.png",
+            "answerType": "text",
+            "jawaban": "Evian"
+        },
+        {
+            "index": "2",
+            "type": "image",
+            "deskripsi": "A German food and beverage brand",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q2.png",
+            "answerType": "text",
+            "jawaban": "Knorr"
+        },
+        {
+            "index": "3",
+            "type": "image",
+            "deskripsi": "An American food manufacturing and processing conglomerate",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q3.png",
+            "answerType": "text",
+            "jawaban": "Kraft"
+        },
+        {
+            "index": "4",
+            "type": "image",
+            "deskripsi": "An international brand of seasonings, instant soups, and noodles",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q4.png",
+            "answerType": "text",
+            "jawaban": "Maggi"
+        },
+        {
+            "index": "5",
+            "type": "image",
+            "deskripsi": "An American multinational chain of hamburger fast food restaurants",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q5.png",
+            "answerType": "text",
+            "jawaban": "Burger King"
+        },
+        {
+            "index": "6",
+            "type": "image",
+            "deskripsi": "A Vermont company that manufactures ice cream, frozen yogurt, and sorbet",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q6.png",
+            "answerType": "text",
+            "jawaban": "Ben & Jerry's"
+        },
+        {
+            "index": "7",
+            "type": "image",
+            "deskripsi": "An American chain of fast casual restaurants",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q7.png",
+            "answerType": "text",
+            "jawaban": "Chipotle"
+        },
+        {
+            "index": "8",
+            "type": "image",
+            "deskripsi": "An American producer and distributor of bananas and other produce",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q8.png",
+            "answerType": "text",
+            "jawaban": "Chiquita"
+        },
+        {
+            "index": "9",
+            "type": "image",
+            "deskripsi": "An American multinational coffee and doughnut company",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q9.png",
+            "answerType": "text",
+            "jawaban": "Dunkin' Donuts"
+        },
+        {
+            "index": "10",
+            "type": "image",
+            "deskripsi": "A brand of fruit-flavored carbonated soft drink",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q10.png",
+            "answerType": "text",
+            "jawaban": "Fanta"
+        },
+        {
+            "index": "11",
+            "type": "image",
+            "deskripsi": "A chocolate-covered wafer bar confection",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q11.png",
+            "answerType": "text",
+            "jawaban": "KitKat"
+        },
+        {
+            "index": "12",
+            "type": "image",
+            "deskripsi": "An American-based chain of fast food restaurants",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q12.png",
+            "answerType": "text",
+            "jawaban": "Taco Bell"
+        },
+        {
+            "index": "13",
+            "type": "image",
+            "deskripsi": "An American food conglomerate",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q13.png",
+            "answerType": "text",
+            "jawaban": "Quaker"
+        },
+        {
+            "index": "14",
+            "type": "image",
+            "deskripsi": "An American doughnut company and coffeehouse chain",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q14.png",
+            "answerType": "text",
+            "jawaban": "Krispy Kreme"
+        },
+        {
+            "index": "15",
+            "type": "image",
+            "deskripsi": "A British brand of tea",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q15.png",
+            "answerType": "text",
+            "jawaban": "Lipton"
+        },
+        {
+            "index": "16",
+            "type": "image",
+            "deskripsi": "An American fast food restaurant chain",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q16.png",
+            "answerType": "text",
+            "jawaban": "KFC"
+        },
+        {
+            "index": "17",
+            "type": "image",
+            "deskripsi": "An American brand of stackable potato-based chips",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q17.png",
+            "answerType": "text",
+            "jawaban": "Pringles"
+        },
+        {
+            "index": "18",
+            "type": "image",
+            "deskripsi": "An energy drink",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q18.png",
+            "answerType": "text",
+            "jawaban": "Red Bull"
+        },
+        {
+            "index": "19",
+            "type": "image",
+            "deskripsi": "A brand name chocolate bar",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q19.png",
+            "answerType": "text",
+            "jawaban": "Snickers"
+        },
+        {
+            "index": "20",
+            "type": "image",
+            "deskripsi": "A colorless, lemon and lime-flavored soft drink",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q20.png",
+            "answerType": "text",
+            "jawaban": "Sprite"
+        },
+        {
+            "index": "21",
+            "type": "image",
+            "deskripsi": "An American brand of flavored tortilla chips",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q21.png",
+            "answerType": "text",
+            "jawaban": "Doritos"
+        },
+        {
+            "index": "22",
+            "type": "image",
+            "deskripsi": "An American casual dining restaurant chain",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q22.png",
+            "answerType": "text",
+            "jawaban": "Chili's"
+        },
+        {
+            "index": "23",
+            "type": "image",
+            "deskripsi": "An American regional chain of fast food restaurants",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q23.png",
+            "answerType": "text",
+            "jawaban": "In n out"
+        },
+        {
+            "index": "24",
+            "type": "image",
+            "deskripsi": "Brand of potato chip varieties",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q24.png",
+            "answerType": "text",
+            "jawaban": "Lays"
+        },
+        {
+            "index": "25",
+            "type": "image",
+            "deskripsi": "An American fast food sandwich restaurant chain",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q25.png",
+            "answerType": "text",
+            "jawaban": "Arbys"
+        },
+        {
+            "index": "26",
+            "type": "image",
+            "deskripsi": "A carbonated soft drink",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q26.png",
+            "answerType": "text",
+            "jawaban": "Coca Cola"
+        },
+        {
+            "index": "27",
+            "type": "image",
+            "deskripsi": "One of the largest privately held, family-owned spirits company in the world",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q27.png",
+            "answerType": "text",
+            "jawaban": "Bacardi"
+        },
+        {
+            "index": "28",
+            "type": "image",
+            "deskripsi": "A Swiss chocolate bar brand",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q28.png",
+            "answerType": "text",
+            "jawaban": "Toblerone"
+        },
+        {
+            "index": "29",
+            "type": "image",
+            "deskripsi": "An American multinational pizza restaurant chain",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q29.png",
+            "answerType": "text",
+            "jawaban": "Domino Pizza"
+        },
+        {
+            "index": "30",
+            "type": "image",
+            "deskripsi": "An American multinational food manufacturing company",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q30.png",
+            "answerType": "text",
+            "jawaban": "Kellog's"
+        },
+        {
+            "index": "31",
+            "type": "image",
+            "deskripsi": "A German confectionery company",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q31.png",
+            "answerType": "text",
+            "jawaban": "Haribo"
+        },
+        {
+            "index": "32",
+            "type": "image",
+            "deskripsi": "A pale lager beer with 5% alcohol",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q32.png",
+            "answerType": "text",
+            "jawaban": "heineken"
+        },
+        {
+            "index": "33",
+            "type": "image",
+            "deskripsi": "A carbonated soft drink",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q33.png",
+            "answerType": "text",
+            "jawaban": "Pepsi"
+        },
+        {
+            "index": "34",
+            "type": "image",
+            "deskripsi": "An American fast food company",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q34.png",
+            "answerType": "text",
+            "jawaban": "McDonald's"
+        },
+        {
+            "index": "35",
+            "type": "image",
+            "deskripsi": "An American multinational chain of coffeehouses and roastery reserves",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q35.png",
+            "answerType": "text",
+            "jawaban": "Starbucks"
+        },
+        {
+            "index": "36",
+            "type": "image",
+            "deskripsi": "An American fast food restaurant franchise that primarily sells submarine sandwiches",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q36.png",
+            "answerType": "text",
+            "jawaban": "Subway"
+        },
+        {
+            "index": "37",
+            "type": "image",
+            "deskripsi": "An energy drink that was introduced by Hansen Natural Company ",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q37.png",
+            "answerType": "text",
+            "jawaban": "Monster"
+        },
+        {
+            "index": "38",
+            "type": "image",
+            "deskripsi": "An American restaurant chain and international franchise",
+            "img": "https://logoquiz.b-cdn.net/food/questions/food_q38.png",
+            "answerType": "text",
+            "jawaban": "Pizza Hut"
+        },
+                 {
+            "index": "101",
+            "type": "image",
+            "deskripsi": "French luxury fashion house",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q1.png",
+            "answerType": "text",
+            "jawaban": "Chanel"
+        },
+        {
+            "index": "102",
+            "type": "image",
+            "deskripsi": "A Japanese multinational corporation which produces sports equipment",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q2.png",
+            "answerType": "text",
+            "jawaban": "Asics "
+        },
+        {
+            "index": "103",
+            "type": "image",
+            "deskripsi": "A German multinational corporation,",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q3.png",
+            "answerType": "text",
+            "jawaban": "Adindexas"
+        },
+        {
+            "index": "104",
+            "type": "image",
+            "deskripsi": "An American lifestyle, clothing, and accessories retailer",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q4.png",
+            "answerType": "text",
+            "jawaban": "American Eagle"
+        },
+        {
+            "index": "105",
+            "type": "image",
+            "deskripsi": "A French company sells clothing, footwear, sportswear, eyewear, leather goods, perfume, towels and watches.",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q5.png",
+            "answerType": "text",
+            "jawaban": "Lacoste"
+        },
+        {
+            "index": "106",
+            "type": "image",
+            "deskripsi": "An Italian luxury fashion house producing fur, ready-to-wear, leather goods, shoes, fragrances, eyewear, timepieces and accessories.",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q6.png",
+            "answerType": "text",
+            "jawaban": "Fendi"
+        },
+        {
+            "index": "107",
+            "type": "image",
+            "deskripsi": "An American manufacturer of clothing, specializing in sportswear",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q7.png",
+            "answerType": "text",
+            "jawaban": "Champion"
+        },
+        {
+            "index": "108",
+            "type": "image",
+            "deskripsi": "A French fashion house and luxury goods company ",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q8.png",
+            "answerType": "text",
+            "jawaban": "Louis Vuitton"
+        },
+        {
+            "index": "109",
+            "type": "image",
+            "deskripsi": "An Italian luxury fashion house",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q9.png",
+            "answerType": "text",
+            "jawaban": "Dolce & Gabbana"
+        },
+        {
+            "index": "110",
+            "type": "image",
+            "deskripsi": "An American clothing company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q10.png",
+            "answerType": "text",
+            "jawaban": "Levi's"
+        },
+        {
+            "index": "111",
+            "type": "image",
+            "deskripsi": "A luxury watch manufacturer based in Geneva, Switzerland.",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q11.png",
+            "answerType": "text",
+            "jawaban": "rolex"
+        },
+        {
+            "index": "112",
+            "type": "image",
+            "deskripsi": "An apparel manufacturing company primarily known for its largest brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q12.png",
+            "answerType": "text",
+            "jawaban": "Dickies"
+        },
+        {
+            "index": "113",
+            "type": "image",
+            "deskripsi": "An Italian sport apparel company ",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q13.png",
+            "answerType": "text",
+            "jawaban": "Ellesse "
+        },
+        {
+            "index": "114",
+            "type": "image",
+            "deskripsi": "A company that manufactures and distributes outerwear, sportswear, and footwear",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q14.png",
+            "answerType": "text",
+            "jawaban": "Columbia"
+        },
+        {
+            "index": "115",
+            "type": "image",
+            "deskripsi": "An American clothing brand and retailer",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q15.png",
+            "answerType": "text",
+            "jawaban": "Guess"
+        },
+        {
+            "index": "116",
+            "type": "image",
+            "deskripsi": "A French luxury goods manufacturer",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q16.png",
+            "answerType": "text",
+            "jawaban": "Hermes Paris"
+        },
+        {
+            "index": "117",
+            "type": "image",
+            "deskripsi": "A London-based skateboard shop and clothing brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q17.png",
+            "answerType": "text",
+            "jawaban": "Palace"
+        },
+        {
+            "index": "118",
+            "type": "image",
+            "deskripsi": "An Italian high quality sportswear brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q18.png",
+            "answerType": "text",
+            "jawaban": "Kappa"
+        },
+        {
+            "index": "119",
+            "type": "image",
+            "deskripsi": "A British luxury fashion house headquartered in London",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q19.png",
+            "answerType": "text",
+            "jawaban": "Burberry"
+        },
+        {
+            "index": "120",
+            "type": "image",
+            "deskripsi": "A German multinational corporation",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q20.png",
+            "answerType": "text",
+            "jawaban": "Puma"
+        },
+        {
+            "index": "121",
+            "type": "image",
+            "deskripsi": "A British-American footwear and clothing company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q21.png",
+            "answerType": "text",
+            "jawaban": "Reebok"
+        },
+        {
+            "index": "122",
+            "type": "image",
+            "deskripsi": "An American outdoor recreation products company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q22.png",
+            "answerType": "text",
+            "jawaban": "The North Face"
+        },
+        {
+            "index": "123",
+            "type": "image",
+            "deskripsi": "An American manufacturer and retailer of outdoors wear",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q23.png",
+            "answerType": "text",
+            "jawaban": "Timberland"
+        },
+        {
+            "index": "124",
+            "type": "image",
+            "deskripsi": "An American premium clothing brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q24.png",
+            "answerType": "text",
+            "jawaban": "Tommmy Hilfiger"
+        },
+        {
+            "index": "125",
+            "type": "image",
+            "deskripsi": "An Italian retail clothing company, located in Breganze",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q25.png",
+            "answerType": "text",
+            "jawaban": "Diesel"
+        },
+        {
+            "index": "126",
+            "type": "image",
+            "deskripsi": "A sportswear manufacturer that designs shoes and apparel",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q26.png",
+            "answerType": "text",
+            "jawaban": "Fila"
+        },
+        {
+            "index": "127",
+            "type": "image",
+            "deskripsi": "An Italian luxury fashion company and trade name",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q27.png",
+            "answerType": "text",
+            "jawaban": "Versace"
+        },
+        {
+            "index": "128",
+            "type": "image",
+            "deskripsi": "An Italian luxury fashion house",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q28.png",
+            "answerType": "text",
+            "jawaban": "Giorgio Armani"
+        },
+        {
+            "index": "129",
+            "type": "image",
+            "deskripsi": "A global teen and young adult retail brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q29.png",
+            "answerType": "text",
+            "jawaban": "Hollister"
+        },
+        {
+            "index": "130",
+            "type": "image",
+            "deskripsi": " A U.S.-based apparel company ",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q30.png",
+            "answerType": "text",
+            "jawaban": "Carhartt"
+        },
+        {
+            "index": "131",
+            "type": "image",
+            "deskripsi": "A Japanese fashion brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q31.png",
+            "answerType": "text",
+            "jawaban": "Bape"
+        },
+        {
+            "index": "132",
+            "type": "image",
+            "deskripsi": "A French luxury fashion house",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q32.png",
+            "answerType": "text",
+            "jawaban": "Yves Saint Laurent"
+        },
+        {
+            "index": "133",
+            "type": "image",
+            "deskripsi": "An American multinational corporation that is engaged in the design, development, manufacturing",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q33.png",
+            "answerType": "text",
+            "jawaban": "Nike"
+        },
+        {
+            "index": "134",
+            "type": "image",
+            "deskripsi": "A American fashion company producing products ranging from the mindex-range to the luxury segments.",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q34.png",
+            "answerType": "text",
+            "jawaban": "Ralph Laurent"
+        },
+        {
+            "index": "135",
+            "type": "image",
+            "deskripsi": " A multinational fashion holding company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q35.png",
+            "answerType": "text",
+            "jawaban": "Micheal Kores"
+        },
+        {
+            "index": "136",
+            "type": "image",
+            "deskripsi": "A multinational fashion holding company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q36.png",
+            "answerType": "text",
+            "jawaban": "Calvin Klein"
+        },
+        {
+            "index": "137",
+            "type": "image",
+            "deskripsi": "An American apparel brand",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q37.png",
+            "answerType": "text",
+            "jawaban": "Nautica"
+        },
+        {
+            "index": "138",
+            "type": "image",
+            "deskripsi": "An American sports equipment company that manufactures footwear, sports and casual apparel",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q38.png",
+            "answerType": "text",
+            "jawaban": "Under Armour"
+        },
+        {
+            "index": "139",
+            "type": "image",
+            "deskripsi": "A British appeal company",
+            "img": "https://logoquiz.b-cdn.net/fashion/questions/fash_q39.png",
+            "answerType": "text",
+            "jawaban": "Fred Perry"
+        },                  
+        {
+            "index": "201",
+            "type": "image",
+            "deskripsi": "American multinational technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q1.png",
+            "answerType": "text",
+            "jawaban": "Apple"
+        },
+        {
+            "index": "202",
+            "type": "image",
+            "deskripsi": "A family of audio compression technologies",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q2.png",
+            "answerType": "text",
+            "jawaban": "Dolby"
+        },
+        {
+            "index": "203",
+            "type": "image",
+            "deskripsi": "A Dutch multinational conglomerate corporation",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q3.png",
+            "answerType": "text",
+            "jawaban": "Philips"
+        },
+        {
+            "index": "204",
+            "type": "image",
+            "deskripsi": "A Chinese multinational technology company specializing in e-commerce,",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q4.png",
+            "answerType": "text",
+            "jawaban": "Alibaba"
+        },
+        {
+            "index": "206",
+            "type": "image",
+            "deskripsi": "An American multinational technology conglomerate",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q6.png",
+            "answerType": "text",
+            "jawaban": "Cisco"
+        },
+        {
+            "index": "207",
+            "type": "image",
+            "deskripsi": "An American multinational corporation and technology company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q7.png",
+            "answerType": "text",
+            "jawaban": "Intel"
+        },
+        {
+            "index": "208",
+            "type": "image",
+            "deskripsi": "An American multinational computer software company.",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q8.png",
+            "answerType": "text",
+            "jawaban": "Adobe"
+        },
+        {
+            "index": "209",
+            "type": "image",
+            "deskripsi": "A French/Chinese brand of mobile handsets",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q9.png",
+            "answerType": "text",
+            "jawaban": "Alcatel"
+        },
+        {
+            "index": "210",
+            "type": "image",
+            "deskripsi": "An American multinational technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q10.png",
+            "answerType": "text",
+            "jawaban": "Amazon"
+        },
+        {
+            "index": "211",
+            "type": "image",
+            "deskripsi": "An American multinational semiconductor company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q11.png",
+            "answerType": "text",
+            "jawaban": "AMD"
+        },
+        {
+            "index": "212",
+            "type": "image",
+            "deskripsi": "A Taiwanese multinational computer and phone hardware and electronics company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q12.png",
+            "answerType": "text",
+            "jawaban": "ASUS"
+        },
+        {
+            "index": "213",
+            "type": "image",
+            "deskripsi": "An American multinational conglomerate holding company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q13.png",
+            "answerType": "text",
+            "jawaban": "AT&T"
+        },
+        {
+            "index": "214",
+            "type": "image",
+            "deskripsi": "An American multinational computer technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q14.png",
+            "answerType": "text",
+            "jawaban": "Dell"
+        },
+        {
+            "index": "215",
+            "type": "image",
+            "deskripsi": "An American consumer electronics and fitness company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q15.png",
+            "answerType": "text",
+            "jawaban": "Fitbit"
+        },
+        {
+            "index": "216",
+            "type": "image",
+            "deskripsi": "A Japanese multinational information and communications technology equipment and services company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q16.png",
+            "answerType": "text",
+            "jawaban": "Fujitsu"
+        },
+        {
+            "index": "217",
+            "type": "image",
+            "deskripsi": "An online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities.",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q17.png",
+            "answerType": "text",
+            "jawaban": "Airbnb"
+        },
+        {
+            "index": "218",
+            "type": "image",
+            "deskripsi": "A Chinese multinational technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q18.png",
+            "answerType": "text",
+            "jawaban": "Huawei"
+        },
+        {
+            "index": "219",
+            "type": "image",
+            "deskripsi": "The mobile communications subsindexiaries of the German telecommunications company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q19.png",
+            "answerType": "text",
+            "jawaban": "T-Mobile"
+        },
+        {
+            "index": "220",
+            "type": "image",
+            "deskripsi": "A South Korean multinational conglomerate corporation",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q20.png",
+            "answerType": "text",
+            "jawaban": "LG"
+        },
+        {
+            "index": "221",
+            "type": "image",
+            "deskripsi": "An American multinational technology company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q21.png",
+            "answerType": "text",
+            "jawaban": "Microsoft"
+        },
+        {
+            "index": "222",
+            "type": "image",
+            "deskripsi": "An American multinational telecommunications company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q22.png",
+            "answerType": "text",
+            "jawaban": "Motorola "
+        },
+        {
+            "index": "223",
+            "type": "image",
+            "deskripsi": "An American multinational technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q23.png",
+            "answerType": "text",
+            "jawaban": "Nvindexia"
+        },
+        {
+            "index": "224",
+            "type": "image",
+            "deskripsi": "A Chinese consumer electronics manufacturer an American company operating an online payments",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q24.png",
+            "answerType": "text",
+            "jawaban": "Oneplus"
+        },
+        {
+            "index": "225",
+            "type": "image",
+            "deskripsi": "An American company operating an online payments system ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q25.png",
+            "answerType": "text",
+            "jawaban": "Paypal"
+        },
+        {
+            "index": "226",
+            "type": "image",
+            "deskripsi": "An Irish ultra low-cost airline ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q26.png",
+            "answerType": "text",
+            "jawaban": "Ryanair"
+        },
+        {
+            "index": "227",
+            "type": "image",
+            "deskripsi": "A South Korean multinational conglomerate",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q27.png",
+            "answerType": "text",
+            "jawaban": "Samsung"
+        },
+        {
+            "index": "228",
+            "type": "image",
+            "deskripsi": "An American data storage company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q28.png",
+            "answerType": "text",
+            "jawaban": "Seagate"
+        },
+        {
+            "index": "229",
+            "type": "image",
+            "deskripsi": "A Swedish multinational networking and telecommunications company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q29.png",
+            "answerType": "text",
+            "jawaban": "Ericsson"
+        },
+        {
+            "index": "230",
+            "type": "image",
+            "deskripsi": "An American consumer audio products manufacturer",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q30.png",
+            "answerType": "text",
+            "jawaban": "Beats"
+        },
+        {
+            "index": "231",
+            "type": "image",
+            "deskripsi": "Chinese multinational electronics ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q31.png",
+            "answerType": "text",
+            "jawaban": "Xiaomi"
+        },
+        {
+            "index": "232",
+            "type": "image",
+            "deskripsi": "An American technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q32.png",
+            "answerType": "text",
+            "jawaban": "Uber"
+        },
+        {
+            "index": "233",
+            "type": "image",
+            "deskripsi": "An online vindexeo platform owned by Google.",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q33.png",
+            "answerType": "text",
+            "jawaban": "Youtube"
+        },
+        {
+            "index": "234",
+            "type": "image",
+            "deskripsi": "An American microblogging and social networking service ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q34.png",
+            "answerType": "text",
+            "jawaban": "Twitter"
+        },
+        {
+            "index": "235",
+            "type": "image",
+            "deskripsi": "A brand of smartphones, tablets, and services o",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q35.png",
+            "answerType": "text",
+            "jawaban": "Blackberry"
+        },
+        {
+            "index": "236",
+            "type": "image",
+            "deskripsi": "A file hosting service operated by the American company ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q36.png",
+            "answerType": "text",
+            "jawaban": "Dropbox"
+        },
+        {
+            "index": "237",
+            "type": "image",
+            "deskripsi": "An American online social media and social networking service ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q37.png",
+            "answerType": "text",
+            "jawaban": "Facebook"
+        },
+        {
+            "index": "238",
+            "type": "image",
+            "deskripsi": "An American multinational technology company",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q38.png",
+            "answerType": "text",
+            "jawaban": "Google"
+        },
+        {
+            "index": "239",
+            "type": "image",
+            "deskripsi": "An American multimedia messaging app ",
+            "img": "https://logoquiz.b-cdn.net/technology/questions/tech_q39.png",
+            "answerType": "text",
+            "jawaban": "Snapchat"
+        },
+           {
+            "index": "301",
+            "type": "image",
+            "deskripsi": "American over-the-top content platform and production company",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q1.png",
+            "answerType": "text",
+            "jawaban": "Netflix"
+        },
+        {
+            "index": "302",
+            "type": "image",
+            "deskripsi": "A Japanese multinational consumer electronics and vindexeo game company",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q2.png",
+            "answerType": "text",
+            "jawaban": "Nintendo"
+        },
+        {
+            "index": "303",
+            "type": "image",
+            "deskripsi": "A film studio and theme park in the San Fernando Valley area of Los Angeles County, California.",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q3.png",
+            "answerType": "text",
+            "jawaban": "Universal Studios"
+        },
+        {
+            "index": "304",
+            "type": "image",
+            "deskripsi": "A media franchise created by Robert Kirkman",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q4.png",
+            "answerType": "text",
+            "jawaban": "The Walking Dead"
+        },
+        {
+            "index": "305",
+            "type": "image",
+            "deskripsi": "A French vindexeo game publisher based in Paris",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q5.png",
+            "answerType": "text",
+            "jawaban": "Gameloft"
+        },
+        {
+            "index": "306",
+            "type": "image",
+            "deskripsi": "An American fantasy drama television series",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q6.png",
+            "answerType": "text",
+            "jawaban": "Game of Thrones"
+        },
+        {
+            "index": "307",
+            "type": "image",
+            "deskripsi": "An American multinational pay television network and flagship channel ",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q7.png",
+            "answerType": "text",
+            "jawaban": "Discovery"
+        },
+        {
+            "index": "308",
+            "type": "image",
+            "deskripsi": "A board game currently published by Hasbro",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q8.png",
+            "answerType": "text",
+            "jawaban": "Monopoly"
+        },
+        {
+            "index": "309",
+            "type": "image",
+            "deskripsi": "A Japanese entertainment, vindexeo game, and gambling conglomerate",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q9.png",
+            "answerType": "text",
+            "jawaban": "Konami"
+        },
+        {
+            "index": "310",
+            "type": "image",
+            "deskripsi": "A vindexeo streaming platform ",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q10.png",
+            "answerType": "text",
+            "jawaban": "Crackle"
+        },
+        {
+            "index": "311",
+            "type": "image",
+            "deskripsi": "A Japanese multinational vindexeo game developer and publisher",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q11.png",
+            "answerType": "text",
+            "jawaban": "Bandai Namco"
+        },
+        {
+            "index": "312",
+            "type": "image",
+            "deskripsi": "An American streaming television service",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q12.png",
+            "answerType": "text",
+            "jawaban": "FuboTV"
+        },
+        {
+            "index": "313",
+            "type": "image",
+            "deskripsi": "An American diversified multinational mass media and entertainment conglomerate",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q13.png",
+            "answerType": "text",
+            "jawaban": "Warner Bros"
+        },
+        {
+            "index": "314",
+            "type": "image",
+            "deskripsi": "An American vindexeo game publisher based in New York City",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q14.png",
+            "answerType": "text",
+            "jawaban": "Rockstar Games"
+        },
+        {
+            "index": "315",
+            "type": "image",
+            "deskripsi": "A media franchise centered on a series of action films",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q15.png",
+            "answerType": "text",
+            "jawaban": "Fast & Furious"
+        },
+        {
+            "index": "316",
+            "type": "image",
+            "deskripsi": "A word game in which two to four players score points by placing tiles,",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q16.png",
+            "answerType": "text",
+            "jawaban": "Scrabble"
+        },
+        {
+            "index": "317",
+            "type": "image",
+            "deskripsi": "An American vindexeo game publisher based in Santa Monica, California",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q17.png",
+            "answerType": "text",
+            "jawaban": "Activision"
+        },
+        {
+            "index": "318",
+            "type": "image",
+            "deskripsi": "An American telecommunications conglomerate",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q18.png",
+            "answerType": "text",
+            "jawaban": "Comcast"
+        },
+        {
+            "index": "319",
+            "type": "image",
+            "deskripsi": "An American entrepreneur, animator, writer, voice actor, and film producer",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q19.png",
+            "answerType": "text",
+            "jawaban": "WaltDisney"
+        },
+        {
+            "index": "320",
+            "type": "image",
+            "deskripsi": "An American vindexeo live streaming service that focuses on vindexeo game live streaming",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q20.png",
+            "answerType": "text",
+            "jawaban": "Twitch"
+        },
+        {
+            "index": "321",
+            "type": "image",
+            "deskripsi": "An American subscription vindexeo on demand streaming service",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q21.png",
+            "answerType": "text",
+            "jawaban": "HBO Max"
+        },
+        {
+            "index": "322",
+            "type": "image",
+            "deskripsi": "An American subscription vindexeo on demand service ",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q22.png",
+            "answerType": "text",
+            "jawaban": "Hulu"
+        },
+        {
+            "index": "323",
+            "type": "image",
+            "deskripsi": "A 2015 American science fiction adventure film",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q23.png",
+            "answerType": "text",
+            "jawaban": "Jurastic World"
+        },
+        {
+            "index": "324",
+            "type": "image",
+            "deskripsi": "Is an American film studio",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q24.png",
+            "answerType": "text",
+            "jawaban": "Century Fox"
+        },
+        {
+            "index": "325",
+            "type": "image",
+            "deskripsi": "A British crime television series",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q25.png",
+            "answerType": "text",
+            "jawaban": "Sherlock"
+        },
+        {
+            "index": "326",
+            "type": "image",
+            "deskripsi": "An American entertainment company ",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q26.png",
+            "answerType": "text",
+            "jawaban": "Marvel"
+        },
+        {
+            "index": "327",
+            "type": "image",
+            "deskripsi": "A Swedish vindexeo game developer based in Stockholm.",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q27.png",
+            "answerType": "text",
+            "jawaban": "Mojang"
+        },
+        {
+            "index": "328",
+            "type": "image",
+            "deskripsi": "A brand of several television channels",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q28.png",
+            "answerType": "text",
+            "jawaban": "Paramount Channel"
+        },
+        {
+            "index": "329",
+            "type": "image",
+            "deskripsi": "A Japanese multinational vindexeo game developer and publisher headquartered in Shinagawa",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q29.png",
+            "answerType": "text",
+            "jawaban": "Sega"
+        },
+        {
+            "index": "330",
+            "type": "image",
+            "deskripsi": "An American epic space opera media franchise",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q30.png",
+            "answerType": "text",
+            "jawaban": "Star Wars"
+        },
+        {
+            "index": "331",
+            "type": "image",
+            "deskripsi": "A Chinese multinational technology conglomerate holding company",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q31.png",
+            "answerType": "text",
+            "jawaban": "Tencent Games "
+        },
+        {
+            "index": "332",
+            "type": "image",
+            "deskripsi": " 1984 science fiction film",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q32.png",
+            "answerType": "text",
+            "jawaban": "The Terminator"
+        },
+        {
+            "index": "333",
+            "type": "image",
+            "deskripsi": "A vindexeo sharing social networking service",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q33.png",
+            "answerType": "text",
+            "jawaban": "Tik Tok"
+        },
+        {
+            "index": "334",
+            "type": "image",
+            "deskripsi": "A 1997 American epic romance and disaster film",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q34.png",
+            "answerType": "text",
+            "jawaban": "Titanic"
+        },
+        {
+            "index": "335",
+            "type": "image",
+            "deskripsi": "An online audio distribution platform and music sharing website",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q35.png",
+            "answerType": "text",
+            "jawaban": "Soundcloud"
+        },
+        {
+            "index": "336",
+            "type": "image",
+            "deskripsi": "A French vindexeo game company",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q36.png",
+            "answerType": "text",
+            "jawaban": "Ubisoft "
+        },
+        {
+            "index": "337",
+            "type": "image",
+            "deskripsi": "A line of plastic construction toys ",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q37.png",
+            "answerType": "text",
+            "jawaban": "Lego"
+        },
+        {
+            "index": "338",
+            "type": "image",
+            "deskripsi": "A VoIP, instant messaging and digital distribution platform",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q38.png",
+            "answerType": "text",
+            "jawaban": "Discrd"
+        },
+        {
+            "index": "339",
+            "type": "image",
+            "deskripsi": "A Swedish audio streaming and media services provindexer",
+            "img": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q39.png",
+            "answerType": "text",
+            "jawaban": "Spotify"
+        }, 
+        {
+            "index": "402",
+            "type": "image",
+            "deskripsi": "A division of the American automobile manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q2.png",
+            "answerType": "text",
+            "jawaban": "Cadilac"
+        },
+        {
+            "index": "403",
+            "type": "image",
+            "deskripsi": "An American automobile division ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q3.png",
+            "answerType": "text",
+            "jawaban": "Chervolet"
+        },
+        {
+            "index": "404",
+            "type": "image",
+            "deskripsi": "A British automotive marque founded in 1969",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q4.png",
+            "answerType": "text",
+            "jawaban": "Mini Cooper"
+        },
+        {
+            "index": "405",
+            "type": "image",
+            "deskripsi": "A German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q5.png",
+            "answerType": "text",
+            "jawaban": "Porcshe"
+        },
+        {
+            "index": "406",
+            "type": "image",
+            "deskripsi": "A French automobile manufacturer.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q6.png",
+            "answerType": "text",
+            "jawaban": "Citroen"
+        },
+        {
+            "index": "407",
+            "type": "image",
+            "deskripsi": "A major South Korean chaebol (type of conglomerate) and car manufacturer.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q7.png",
+            "answerType": "text",
+            "jawaban": "Daewoo"
+        },
+        {
+            "index": "408",
+            "type": "image",
+            "deskripsi": "Is the luxury vehicle division of Japanese automaker Nissan",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q8.png",
+            "answerType": "text",
+            "jawaban": "Infiniti"
+        },
+        {
+            "index": "409",
+            "type": "image",
+            "deskripsi": "Is the luxury vehicle brand of Jaguar Land Rover",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q9.png",
+            "answerType": "text",
+            "jawaban": "Jaguar"
+        },
+        {
+            "index": "410",
+            "type": "image",
+            "deskripsi": "A German motor vehicle manufacturer founded in 1937",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q10.png",
+            "answerType": "text",
+            "jawaban": "VolksWagen"
+        },
+        {
+            "index": "411",
+            "type": "image",
+            "deskripsi": "A japanese multinational automaker ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q11.png",
+            "answerType": "text",
+            "jawaban": "Lexus"
+        },
+        {
+            "index": "412",
+            "type": "image",
+            "deskripsi": "A French automobile manufacturer.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q12.png",
+            "answerType": "text",
+            "jawaban": "Peugeot"
+        },
+        {
+            "index": "413",
+            "type": "image",
+            "deskripsi": "A group of autonomous Japanese multinational companies in a variety of industries.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q13.png",
+            "answerType": "text",
+            "jawaban": "Mitsubishi"
+        },
+        {
+            "index": "414",
+            "type": "image",
+            "deskripsi": "A Japanese multinational corporation headquartered in Minami-ku, Hamamatsu",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q14.png",
+            "answerType": "text",
+            "jawaban": "Suzuki"
+        },
+        {
+            "index": "415",
+            "type": "image",
+            "deskripsi": "A British independent manufacturer of luxury sports cars and grand tourers",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q15.png",
+            "answerType": "text",
+            "jawaban": "Aston Martin"
+        },
+        {
+            "index": "416",
+            "type": "image",
+            "deskripsi": "A British manufacturer and marketer of luxury cars and SUVs",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q16.png",
+            "answerType": "text",
+            "jawaban": "Bentley"
+        },
+        {
+            "index": "417",
+            "type": "image",
+            "deskripsi": "A French car manufacturer of high-performance automobiles,",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q17.png",
+            "answerType": "text",
+            "jawaban": "Buggati"
+        },
+        {
+            "index": "418",
+            "type": "image",
+            "deskripsi": "A German automobile manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q18.png",
+            "answerType": "text",
+            "jawaban": "Audi"
+        },
+        {
+            "index": "419",
+            "type": "image",
+            "deskripsi": "A Romanian car manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q19.png",
+            "answerType": "text",
+            "jawaban": "Dacia"
+        },
+        {
+            "index": "420",
+            "type": "image",
+            "deskripsi": "An American brand of automobiles and a division of Stellantis",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q20.png",
+            "answerType": "text",
+            "jawaban": "Dodge"
+        },
+        {
+            "index": "421",
+            "type": "image",
+            "deskripsi": "An Italian luxury sports car manufacturer based in Maranello, Italy. ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q21.png",
+            "answerType": "text",
+            "jawaban": "Ferrari"
+        },
+        {
+            "index": "422",
+            "type": "image",
+            "deskripsi": "An Italian automobile manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q22.png",
+            "answerType": "text",
+            "jawaban": "Fiat"
+        },
+        {
+            "index": "423",
+            "type": "image",
+            "deskripsi": "An American multinational automaker",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q23.png",
+            "answerType": "text",
+            "jawaban": "Ford"
+        },
+        {
+            "index": "424",
+            "type": "image",
+            "deskripsi": "A Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q24.png",
+            "answerType": "text",
+            "jawaban": "Honda"
+        },
+        {
+            "index": "425",
+            "type": "image",
+            "deskripsi": "A South Korean multinational automotive manufacturer ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q25.png",
+            "answerType": "text",
+            "jawaban": "Hyundai"
+        },
+        {
+            "index": "426",
+            "type": "image",
+            "deskripsi": "A Swedish manufacturer of high-performance sports cars",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q26.png",
+            "answerType": "text",
+            "jawaban": "Koenigsegg"
+        },
+        {
+            "index": "427",
+            "type": "image",
+            "deskripsi": "A brand of cars manufactured by AvtoVAZ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q27.png",
+            "answerType": "text",
+            "jawaban": "Lada"
+        },
+        {
+            "index": "429",
+            "type": "image",
+            "deskripsi": "An Italian luxury vehicle manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q29.png",
+            "answerType": "text",
+            "jawaban": "Maserati"
+        },
+        {
+            "index": "430",
+            "type": "image",
+            "deskripsi": "A Japanese multinational automaker ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q30.png",
+            "answerType": "text",
+            "jawaban": "Mazda"
+        },
+        {
+            "index": "431",
+            "type": "image",
+            "deskripsi": "A Japanese multinational automobile manufacturer",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q31.png",
+            "answerType": "text",
+            "jawaban": "Nissan"
+        },
+        {
+            "index": "432",
+            "type": "image",
+            "deskripsi": "A German automobile manufacturer ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q32.png",
+            "answerType": "text",
+            "jawaban": "Opel"
+        },
+        {
+            "index": "433",
+            "type": "image",
+            "deskripsi": "A French multinational automobile manufacturer established in 1899.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q33.png",
+            "answerType": "text",
+            "jawaban": "Renault"
+        },
+        {
+            "index": "434",
+            "type": "image",
+            "deskripsi": "A Swedish aerospace and defence company, founded in 1937",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q34.png",
+            "answerType": "text",
+            "jawaban": "Saab"
+        },
+        {
+            "index": "435",
+            "type": "image",
+            "deskripsi": "A Spanish automobile manufacturer ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q35.png",
+            "answerType": "text",
+            "jawaban": "Seat"
+        },
+        {
+            "index": "436",
+            "type": "image",
+            "deskripsi": "A Czech automobile manufacturer founded in 1895",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q36.png",
+            "answerType": "text",
+            "jawaban": "Skoda"
+        },
+        {
+            "index": "437",
+            "type": "image",
+            "deskripsi": "Is the automobile manufacturing division of Japanese transportation conglomerate",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q37.png",
+            "answerType": "text",
+            "jawaban": "Subaru"
+        },
+        {
+            "index": "438",
+            "type": "image",
+            "deskripsi": "A Swedish multinational manufacturing company ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q38.png",
+            "answerType": "text",
+            "jawaban": "Volvo"
+        },
+        {
+            "index": "439",
+            "type": "image",
+            "deskripsi": "A German multinational corporation which produces luxury vehicles and motorcycles.",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q39.png",
+            "answerType": "text",
+            "jawaban": "BMW"
+        },
+        {
+            "index": "440",
+            "type": "image",
+            "deskripsi": "A japanese multinational automaker ",
+            "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q40.png",
+            "answerType": "text",
+            "jawaban": "Chery"
+        }
+    ]
