@@ -303,6 +303,70 @@
             "answerType": "text",
             "jawaban": "Pizza Hut"
         },
+{
+            "index": "39",
+            "type": "image",
+            "deskripsi": "sistem operasi robot hijau milik google yang umumnya digunakan pada Smartphone",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/android.png",
+            "answerType": "text",
+            "jawaban": "Android"
+        },
+{
+            "index": "40",
+            "type": "image",
+            "deskripsi": "perangkat lunak yang dimilikinya adalah pdf reader, Photoshop, Lightroom",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/adobe.png",
+            "answerType": "text",
+            "jawaban": "Adobe"
+        },
+{
+            "index": "41",
+            "type": "image",
+            "deskripsi": "browser andalan Google",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/chrome.png",
+            "answerType": "text",
+            "jawaban": "Chrome"
+        },
+{
+            "index": "42",
+            "type": "image",
+            "deskripsi": "software email dari google",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/gmail.png",
+            "answerType": "text",
+            "jawaban": "Gmail"
+        },
+{
+            "index": "43",
+            "type": "image",
+            "deskripsi": "Restoran cepat saji yang sangat populer",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/mcdonalds.png",
+            "answerType": "text",
+            "jawaban": "Mc Donalds"
+        },
+{
+            "index": "44",
+            "type": "image",
+            "deskripsi": "Situs media sosial tempatnya para pendongeng handal",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/twitter.png",
+            "answerType": "text",
+            "jawaban": "Twitter"
+        },
+        {
+            "index": "45",
+            "type": "image",
+            "deskripsi": "cafe/Perusahaan kopi paling terkenal di dunia ",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/starbucks.png",
+            "answerType": "text",
+            "jawaban": "Starbucks"
+        },
+        {
+            "index": "46",
+            "type": "image",
+            "deskripsi": "Salah satu console game terbaik",
+            "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/xbox.png",
+            "answerType": "text",
+            "jawaban": "Xbox"
+        },
                  {
             "index": "101",
             "type": "image",
