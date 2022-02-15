@@ -218,7 +218,7 @@
 {
 "index": "40",
 "type": "gambar",
-"deskripsi": "perangkat lunak yang retak adalah pdf reader, Photoshop, Lightroom",
+"deskripsi": "perangkat lunak yang dimilikinya adalah pdf reader, Photoshop, Lightroom dll.",
 "img": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/adobe.png",
 "answerType": "text",
 "jawaban": "Adobe"
@@ -1010,7 +1010,7 @@
 {
  "index": "409",
 "type": "gambar",
- "deskripsi": "Merupakan merek kendaraan mewah Jaguar Land Rover",
+ "deskripsi": "Merupakan merek kendaraan mewah Land Rover",
  "img": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q9.png",
 "answerType": "text",
  "jawaban": "Jaguar"
